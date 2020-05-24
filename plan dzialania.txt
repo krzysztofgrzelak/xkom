@@ -1,0 +1,5 @@
+1. Ogarnięcie GITa
+2. Zaczęcie dokumentacji
+3. Logowanie
+4. Parser
+5. Baza danych / wyświetlanie
